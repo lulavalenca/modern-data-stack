@@ -8,7 +8,7 @@ Infraestrutura:
 
 - Setar as Permissoes do Gitpod ao Repositorio no Github x
 
-- Subir o Airbyte
+- Subir o Airbyte x
 
 - Subir o Airflow
 
