@@ -10,9 +10,9 @@ Infraestrutura:
 
 - Subir o Airbyte x
 
-- Subir o Airflow
+- Subir o Airflow x
 
-- Subir o Metabase via docker
+- Subir o Metabase via docker x
 
 - Criar o script de execução
 
