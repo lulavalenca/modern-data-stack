@@ -18,4 +18,8 @@ Infraestrutura:
 
 - Testar a Execução ?
 
-- Criar conta no snowflake
+- Snowflake Data Warehouse:
+
+    - Criar conta no snowflake
+    - Verificar a existência das tabelas
+    - Obter os links de conexão e nome da conta
