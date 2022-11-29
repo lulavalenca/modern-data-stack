@@ -14,8 +14,8 @@ Infraestrutura:
 
 - Subir o Metabase via docker x
 
-- Criar o script de execução
+- Criar o script de execução  ?
 
-- Testar a Execução
+- Testar a Execução ?
 
 - Criar conta no snowflake
